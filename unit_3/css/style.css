@@ -38,7 +38,7 @@ h1{
 
 
 #heroimage {
-    background: (images/happydog.jpg) no-repeat center center scroll;
+    background: url(http://vonsteiny.github.io/unit_3/images/happydog.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
