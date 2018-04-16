@@ -1,0 +1,58 @@
+body, html {
+	font-family: Trebuchet, sans-serif;
+	font-size: 25px; 
+	text-align: center;
+	position: relative;
+	
+}
+
+header {	
+	padding: 0 500px;
+}
+
+nav{
+	margin: auto;
+	padding: 5px;
+}
+
+
+h1{
+	font-weight: 400px;
+	font-size: 35px;
+	text-align: center;
+	line-height: 1.5em;
+	color: black;
+	margin: 200px 0;
+}
+
+
+.navlinks {
+	padding: 10px;
+	color: black;
+	text-transform: uppercase;
+	font-weight: 300px;
+	letter-spacing: 4px;
+	margin: 0 20px;
+    border: none;
+}
+
+
+#heroimage {
+    background: (images/happydog.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+    background-size: cover;
+    height: 750px;
+    padding: 20px 0;
+}
+
+
+
+
+
+
+
+
+
+
